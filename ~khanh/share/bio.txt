@@ -1,0 +1,6 @@
+Khanh N. Dang received his Ph.D. degree from The University of Aizu, Japan in 2017. 
+He got his M.Sc. from the University of Paris-XI in 2014 and B.Sc. from Vietnam National University in 2011. 
+He is currently an associate professor at The University of Aizu since April 2022. 
+From 2017 to 2022, he was an assistant professor at VNU Key Laboratory for Smart Integrated Systems, 
+VNU University of Engineering and Technology, Vietnam National University Hanoi (VNU), Hanoi Vietnam.  
+His research interests include neuromorphic computing, 3D Integrated Circuits, Artificial Intelligence for CAD, and fault-tolerant computing.

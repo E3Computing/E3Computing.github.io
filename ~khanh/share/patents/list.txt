@@ -1,0 +1,2 @@
+1. 特許第7239099号: ３ｄネットワークオンチップのためのｔｓｖ誤り耐容ルータ装置, TSV Error Tolerant Router Device for 3D Network On Chip
+
