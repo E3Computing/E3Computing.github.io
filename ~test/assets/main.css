@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 1.52947;
+    letter-spacing: -.021em;
+    word-spacing: 0.1em;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    
+}
+
+.content-section {
+    margin: 0 auto;
+    width: min(80%, 1000px);
+    min-height: calc(100vh - 112px);  /*minus height of header and footer */
+
+}
+@media screen and (max-width: 1000px) {
+    body {
+        font-size: 14px;
+    }
+    .content-section {
+        min-height: calc(100vh - 51px - 83px);  /*minus height of header and footer */
+    
+    }
+}
+
+.announce {
+    color: rgb(181, 73, 73);
+    border: 0.5px solid rgb(172, 43, 43);
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+
+}
+
+
+.header-section {
+    margin: 0 auto;
+    border-bottom: 0.2px solid #ececec;
+}
+
+a:link {
+    color: #333;
+}
+
+a:visited {
+    color: #333;
+}
+
+a:hover {
+    color: tomato;
+}
+
+.footer-section {
+    margin: 0 auto;
+    border-top: 0.2px solid #e9ecef;
+}
+
+
+.footer {
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.85em;
+    padding-top: 0.1em;
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    text-align: center;
+    color: #cccccc;
+}
+
+@media screen and (max-width: 1000px) {
+    .footer {
+        width: 100%;
+    }
+}
+
+.footer a {
+    color: #999;
+    text-decoration: none;
+}
+
+hr {
+    border-top: 1px solid #e9ecef;
+}
+
+@media screen and (max-width: 1000px) {
+    .content-section {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }   
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    color:#444;
+}
+
+h2 {
+    font-weight: 600;
+    color:#444;
+
+}
+
+h3 {
+    font-weight: 500;
+    color:#444;
+
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+
+
+@media (max-width: 1000px) {
+    .content {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+
+}
