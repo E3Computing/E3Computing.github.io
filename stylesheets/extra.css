@@ -1,6 +1,6 @@
 
-/* My avatar */
-.avatar {
+/* My profile-picture */
+.profile-picture {
     display: block;
     border-radius: 50%;
     box-sizing: border-box;
@@ -15,12 +15,12 @@
     transition: 0.75s all ease-in-out;
 }
 
-.avatar:hover {
+.profile-picture:hover {
     border-radius: 5px;
 }
 
 @media (max-width: 699px) {
-    .avatar {
+    .profile-picture {
         float: none;
         margin-left: auto;
         margin-right: auto;
