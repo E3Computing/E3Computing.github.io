@@ -1,0 +1,30 @@
+{
+  "autoSlideInterval": 4000,
+  "slides": [
+
+    {
+      "image": "../news/imgs/2022/06/Neuromorphic_1sted.JPEG",
+      "caption": "First edition of the Neuromorphic Computing book has been released."
+    },
+    {
+      "image": "../news/imgs/2024/05/ICDV.jpg",
+      "caption": "Mr. Kobayashi presented at ICDV'25"
+    },
+    {
+      "image": "../news/imgs/2024/10/Minpo.jpg",
+      "caption": "Our group interview at Fukushima Minpo - a local newspaper"
+    },
+    {
+      "image": "../news/imgs/2024/12/MCSoC-24_1.jpg",
+      "caption": "Our group union at MCSOC'24"
+    },
+    {
+      "image": "../news/imgs/2025/08/hanyu-and-khanh.jpg",
+      "caption": "Our Booth at Innovation Japan – The University Fair 2025"
+    },
+    {
+      "image": "../news/imgs/2026/03/lsi_contest_2026_okinawa.jpg",
+      "caption": "Our team won the 2nd runner up at LSI Contest 2026"
+    }
+  ]
+}
