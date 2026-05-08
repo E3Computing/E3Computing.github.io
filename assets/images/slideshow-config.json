@@ -4,7 +4,7 @@
 
     {
       "image": "./assets/images/2022_Neuromorphic_1sted.jpg",
-      "caption": "First edition of the Neuromorphic Computing book."
+      "caption": "First edition of the Neuromorphic Computing book"
     },
     {
       "image": "./assets/images/2024_ICDV.jpg",
@@ -25,6 +25,10 @@
     {
       "image": "../assets/images/2026_lsi_contest_okinawa.jpg",
       "caption": "Our team won the 2nd runner up at LSI Contest 2026"
+    },
+    {
+      "image": "../assets/images/2026_first-dvs.gif",
+      "caption": "Our group first ever spike camera footage"
     }
   ]
 }
