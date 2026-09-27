@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="221.48363mm"
+   height="102.35036mm"
+   viewBox="0 0 837.10348 386.83604"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="GT-flow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.84100811"
+     inkscape:cx="495.83351"
+     inkscape:cy="376.92859"
+     inkscape:window-width="2559"
+     inkscape:window-height="1587"
+     inkscape:window-x="1080"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker21"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path21" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path20" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-136.35709,-87.918252)">
+    <rect
+       style="fill:none;stroke:#010101;stroke-width:1.25311;stroke-dasharray:none"
+       id="rect1"
+       width="253.77419"
+       height="35.812782"
+       x="156.73312"
+       y="188.00534" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.0085;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3)"
+       d="m 145.3966,429.50944 0.22432,-261.30293"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.01606;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="m 143.74712,427.27098 742.46218,0.038"
+       id="path2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="272.41324"
+       y="471.14883"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="272.41324"
+         y="471.14883"
+         style="font-size:17.3333px">3<tspan
+   style="font-size:17.3333px;baseline-shift:super"
+   id="tspan18">rd</tspan> year</tspan><tspan
+         sodipodi:role="line"
+         x="272.41324"
+         y="504.48221"
+         id="tspan4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="641.09924"
+       y="471.14883"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="641.09924"
+         y="471.14883"
+         style="font-size:17.3333px">4<tspan
+   style="font-size:17.3333px;baseline-shift:super"
+   id="tspan19">th </tspan>year </tspan></text>
+    <rect
+       style="fill:none;stroke:#010101;stroke-width:1.23065;stroke-dasharray:none"
+       id="rect5"
+       width="244.60706"
+       height="35.835236"
+       x="340.49213"
+       y="244.05324" />
+    <rect
+       style="fill:none;stroke:#010101;stroke-width:1.21114;stroke-dasharray:none"
+       id="rect6"
+       width="236.78192"
+       height="35.854752"
+       x="475.89743"
+       y="300.59259" />
+    <rect
+       style="fill:none;stroke:#010101;stroke-width:1.13386;stroke-dasharray:none"
+       id="rect7"
+       width="207.08217"
+       height="35.932034"
+       x="669.99341"
+       y="363.92841" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="158.98511"
+       y="200.41226"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="158.98511"
+         y="200.41226"
+         style="font-size:13.3333px">Study about basic Neural Networks. </tspan><tspan
+         sodipodi:role="line"
+         x="158.98511"
+         y="217.07889"
+         style="font-size:13.3333px"
+         id="tspan8">Practice Python and/or Verilog HDL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:290.292;fill:#000000;fill-opacity:1;stroke:none"
+       x="496.77261"
+       y="157.64496"
+       id="text9"
+       transform="translate(-154.64461,100.18154)"><tspan
+         x="496.77261"
+         y="157.64496"
+         id="tspan12">Assign first learning project
+</tspan><tspan
+         x="496.77261"
+         y="174.31159"
+         id="tspan14">Reading material for the GT project	</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="519.52551"
+       y="315.73181"
+       id="text12"><tspan
+         sodipodi:role="line"
+         x="519.52551"
+         y="315.73181"
+         style="font-size:13.3333px"
+         id="tspan13">Working on GT project.</tspan><tspan
+         sodipodi:role="line"
+         x="519.52551"
+         y="332.39844"
+         style="font-size:13.3333px"
+         id="tspan15">Learn how to make report </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="681.17175"
+       y="378.93661"
+       id="text17"><tspan
+         sodipodi:role="line"
+         x="681.17175"
+         y="378.93661"
+         style="font-size:13.3333px"
+         id="tspan16">Finalize the GT project</tspan><tspan
+         sodipodi:role="line"
+         x="681.17175"
+         y="395.60324"
+         style="font-size:13.3333px"
+         id="tspan17">Learn how to make slides </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6.80315, 1.13386;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWideRounded);marker-end:url(#marker21)"
+       d="m 142.53891,439.22625 364.53915,0.0824"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:6.80315, 1.13386;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWideRounded);marker-end:url(#marker21)"
+       d="m 509.3558,439.22625 364.53915,0.0824"
+       id="path22" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:96.8956;fill:#000000;fill-opacity:1;stroke:none"
+       x="365.52203"
+       y="105.21321"
+       id="text23"
+       transform="translate(69.485498,-7.1647762)"><tspan
+         x="365.52203"
+         y="105.21321"
+         id="tspan21"><tspan
+           style="fill:#a02c2c"
+           id="tspan20">Coding
+</tspan></tspan><tspan
+         x="365.52203"
+         y="121.87984"
+         id="tspan23"><tspan
+           style="fill:#a02c2c"
+           id="tspan22"> review</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.951045;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.80418, 0.951045;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3)"
+       d="M 436.54559,116.22187 413.81633,189.4982"
+       id="path24" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:96.8956;fill:#000000;fill-opacity:1;stroke:none"
+       x="365.52203"
+       y="105.21321"
+       id="text26"
+       transform="translate(368.41075,117.24668)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.951045;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.80418, 0.951045;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3)"
+       d="m 735.47085,240.63333 -22.72926,73.27633"
+       id="path26" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="658.91675"
+       y="211.84279"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="658.91675"
+         y="211.84279"
+         style="font-size:13.3333px;fill:#800000">Conference paper submission</tspan><tspan
+         sodipodi:role="line"
+         x="658.91675"
+         y="228.50941"
+         style="font-size:13.3333px;fill:#800000"
+         id="tspan27">for students who continue to Master Program</tspan><tspan
+         sodipodi:role="line"
+         x="658.91675"
+         y="245.17604"
+         style="font-size:13.3333px;fill:#800000"
+         id="tspan28" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.951045;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.80418, 0.951045;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3)"
+       d="m 446.79522,366.6002 61.96802,-45.23278"
+       id="path28" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="327.41806"
+       y="378.50076"
+       id="text31"><tspan
+         sodipodi:role="line"
+         x="327.41806"
+         y="378.50076"
+         style="font-size:13.3333px;fill:#800000"
+         id="tspan31">Poster submission</tspan><tspan
+         sodipodi:role="line"
+         x="327.41806"
+         y="395.16739"
+         style="font-size:13.3333px;fill:#800000"
+         id="tspan33" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66029;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2.64116, 0.66029;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3)"
+       d="m 870.13753,327.23914 -23.67162,33.91477"
+       id="path33" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="784.9975"
+       y="318.67795"
+       id="text36"><tspan
+         sodipodi:role="line"
+         x="784.9975"
+         y="318.67795"
+         style="font-size:13.3333px;fill:#800000"
+         id="tspan36">GT project protoype &amp; demo</tspan></text>
+  </g>
+</svg>
