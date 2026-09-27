@@ -31,7 +31,9 @@
 }
 
 
-
+.md-header__source {
+    display: none;
+}
 
 @media (max-width: 699px) {
     .cmap {
@@ -62,7 +64,7 @@ video {
  
 .md-grid {
     /* max-width: initial; */
-    max-width: 1900px;
+    max-width: 1400px;
 } 
 
 /* remove top bar shadow */
