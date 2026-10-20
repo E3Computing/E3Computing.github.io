@@ -248,3 +248,102 @@ html .md-footer-meta.md-typeset a {
     .e3-map__arrow { transform: rotate(90deg); justify-self: center; }
     .e3-map__art { height: 4rem; margin-bottom: .5rem; }
 }
+
+/* contact form */
+
+.contact-form {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.4rem;
+    background-color: var(--md-default-bg-color);
+}
+
+.contact-form__row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 1rem;
+}
+
+@media (max-width: 599px) {
+    .contact-form {
+        padding: 1rem;
+    }
+    .contact-form__row {
+        grid-template-columns: 1fr;
+    }
+}
+
+.contact-form__field {
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.contact-form__field span {
+    display: block;
+    margin-bottom: 0.3rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--md-default-fg-color--light);
+}
+
+.contact-form__field input,
+.contact-form__field textarea {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.5rem 0.6rem;
+    font: inherit;
+    font-size: 0.8rem;
+    color: var(--md-default-fg-color);
+    background-color: var(--md-code-bg-color);
+    border: 0.05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.2rem;
+    transition: border-color 125ms, box-shadow 125ms;
+}
+
+.contact-form__field textarea {
+    resize: vertical;
+    min-height: 8rem;
+}
+
+.contact-form__field input:focus,
+.contact-form__field textarea:focus {
+    outline: none;
+    border-color: var(--md-accent-fg-color);
+    box-shadow: 0 0 0 0.1rem var(--md-accent-fg-color--transparent);
+}
+
+.contact-form__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+}
+
+.contact-form .md-button--primary {
+    background-color: var(--md-accent-fg-color);
+    border-color: var(--md-accent-fg-color);
+    color: var(--md-accent-bg-color);
+    cursor: pointer;
+}
+
+.contact-form .md-button--primary:disabled {
+    opacity: 0.6;
+    cursor: wait;
+}
+
+.contact-form__status {
+    margin: 0;
+    font-size: 0.75rem;
+    color: var(--md-default-fg-color--light);
+}
+
+.contact-form__status.is-success {
+    color: #2e7d32;
+}
+
+.contact-form__status.is-error {
+    color: #c62828;
+}
