@@ -2376,16 +2376,38 @@
                   
 
 <h1 id="group_profiles-group-profiles-for-publicity">group_profiles: Group profiles for publicity</h1>
-<p>To create your public profile, which will be linked from <a href="https://www.e3computing.org/people/">https://www.e3computing.org/people/</a>, please follow these steps:</p>
+<p>Each member of the E³ Computing Group can have a public profile page, linked from <a href="https://www.e3computing.org/people/">https://www.e3computing.org/people/</a>.</p>
+<h2 id="creating-your-profile">Creating your profile</h2>
 <ol>
-<li>Create a folder using your name. For example, a folder named <code>std_sample</code> has already been created.</li>
-<li>Copy the <code>index.md</code> file from the <code>std_sample</code> folder into your newly created folder.</li>
-<li>Replace <code>picture.png</code> with your own photo. Please ensure the filename is either <code>picture.png</code> or <code>picture.jpg</code>.</li>
-<li>Edit the <code>index.md</code> file in your folder with your personal information.</li>
-<li>Notify the administrator (Khanh) once your profile is ready so it can be linked to the team page.</li>
+<li>Clone this repository:</li>
 </ol>
+<div class="highlight"><pre><span></span><code>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/E3Computing/group_profiles.git
+<span class="nb">cd</span><span class="w"> </span>group_profiles
+</code></pre></div>
+<ol>
+<li>Create a new folder named after you, in lowercase with no spaces (e.g. <code>taro_yamada</code>). The folder name becomes part of your profile URL.</li>
+<li>Copy <code>index.md</code> and <code>picture.png</code> from <a href="./std_sample">./std_sample/</a> into your new folder.</li>
+<li>Replace <code>picture.png</code> with your own photo (ideal size 600 × 600 px). The file can be <code>picture.png</code> or <code>picture.jpg</code>; if you use <code>.jpg</code>, change the <code>&lt;img src=...&gt;</code> line in <code>index.md</code> to match.</li>
+<li>Edit <code>index.md</code> with your information:</li>
+<li>Keep the front-matter block (<code>hide: toc / navigation</code>) at the top.</li>
+<li>Delete the instruction note (the <code>&gt;</code> lines) under your photo.</li>
+<li>Remove any section you don't need.</li>
+<li>Update the "Last updated" date at the bottom.</li>
+<li>Commit and push your folder to this repository:</li>
+</ol>
+<div class="highlight"><pre><span></span><code>git<span class="w"> </span>add<span class="w"> </span>your_folder_name/
+git<span class="w"> </span>commit<span class="w"> </span>-m<span class="w"> </span><span class="s2">"Add profile for Your Name"</span>
+git<span class="w"> </span>push
+</code></pre></div>
+<p>If you don't have write access, fork the repository and open a pull request.</p>
+<ol>
+<li><strong>First time only:</strong> tell the administrator (Khanh) that your profile is ready, along with your folder name, so it can be linked from the people page. </li>
+</ol>
+<h2 id="updating-your-profile">Updating your profile</h2>
+<p>Edit the files in your own folder, then commit and push. The administrator doesn't need to be notified again. Please only change files in your own folder.</p>
+<p>Once your profile has been linked, any changes you push will appear on the group site within several hours.</p>
 <h2 id="example">Example</h2>
-<p>Please check <a href="./std_sample/">./std_sample/index.md</a> for the sample profile page. The markdown file and other stuff are also in <a href="./std_sample">./std_sample/</a></p>
+<p>See <a href="./std_sample/">./std_sample/index.md</a> for the sample profile page.</p>
 
 
 
