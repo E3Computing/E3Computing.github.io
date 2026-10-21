@@ -241,6 +241,40 @@ html .md-footer-meta.md-typeset a {
 .e3-map__memory span { width: 4.5rem; height: .8rem; border: 2px solid currentColor; transform: skewY(-10deg); border-radius: .15rem; }
 .e3-map__foundation { margin-top: 1.4rem; border-top: 1px solid var(--md-default-fg-color--lightest); text-align: center; font-size: .75rem; }
 .e3-map__goal { text-align: center; font-weight: 600; font-size: .85rem; }
+.e3-visually-hidden {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+}
+/* Stages appear left to right, then a pulse travels sense → compute → store. */
+.e3-map__flow > * { animation: e3-enter .5s ease-out both; }
+.e3-map__flow > :nth-child(2) { animation-delay: .15s; }
+.e3-map__flow > :nth-child(3) { animation-delay: .3s; }
+.e3-map__flow > :nth-child(4) { animation-delay: .45s; }
+.e3-map__flow > :nth-child(5) { animation-delay: .6s; }
+.e3-map__art,
+.e3-map__arrow { animation: e3-pulse 5s ease-in-out 1s infinite; }
+.e3-map__flow > :nth-child(1) .e3-map__art { animation-delay: 1s; }
+.e3-map__flow > .e3-map__arrow:nth-child(2) { animation: e3-enter .5s ease-out .15s both, e3-pulse 5s ease-in-out 2s infinite; }
+.e3-map__flow > :nth-child(3) .e3-map__art { animation-delay: 3s; }
+.e3-map__flow > .e3-map__arrow:nth-child(4) { animation: e3-enter .5s ease-out .45s both, e3-pulse 5s ease-in-out 4s infinite; }
+.e3-map__flow > :nth-child(5) .e3-map__art { animation-delay: 5s; }
+@keyframes e3-enter {
+    from { opacity: 0; translate: -1rem 0; }
+    to { opacity: 1; translate: 0 0; }
+}
+@keyframes e3-pulse {
+    0%, 20%, 100% { scale: 1; filter: none; }
+    10% { scale: 1.12; filter: drop-shadow(0 0 .35rem currentColor); }
+}
+@media (prefers-reduced-motion: reduce) {
+    .e3-map__flow > *,
+    .e3-map__art,
+    .e3-map__flow > .e3-map__arrow { animation: none; }
+}
 .e3-map a:focus-visible { outline: 2px solid var(--md-typeset-a-color); outline-offset: 4px; }
 @media (max-width: 700px) {
     .e3-map { padding: 1rem; }
