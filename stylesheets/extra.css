@@ -203,10 +203,6 @@ html .md-footer-meta.md-typeset a {
 /* Homepage research map: native links work with instant navigation. */
 .e3-map {
     margin: 1.5rem 0 2rem;
-    padding: 1.5rem;
-    border: 1px solid var(--md-default-fg-color--lightest);
-    border-radius: 1rem;
-    background: var(--md-code-bg-color);
 }
 .e3-map__flow {
     display: grid;
@@ -234,7 +230,7 @@ html .md-footer-meta.md-typeset a {
 .e3-map__events span:nth-child(4n) { opacity: .55; }
 .e3-map__spikes { gap: .35rem; position: relative; }
 .e3-map__spikes::after { content: ""; position: absolute; left: 0; right: 0; top: 50%; border-top: 1px solid currentColor; }
-.e3-map__spikes span { width: .4rem; height: 1rem; border: 2px solid currentColor; background: var(--md-code-bg-color); z-index: 1; }
+.e3-map__spikes span { width: .4rem; height: 1rem; border: 2px solid currentColor; background: var(--md-default-bg-color); z-index: 1; }
 .e3-map__spikes span:nth-child(2n) { height: 3rem; }
 .e3-map__spikes span:nth-child(3n) { height: 2rem; }
 .e3-map__memory { flex-direction: column; gap: .4rem; }
@@ -277,7 +273,6 @@ html .md-footer-meta.md-typeset a {
 }
 .e3-map a:focus-visible { outline: 2px solid var(--md-typeset-a-color); outline-offset: 4px; }
 @media (max-width: 700px) {
-    .e3-map { padding: 1rem; }
     .e3-map__flow { grid-template-columns: minmax(0, 1fr); gap: .6rem; }
     .e3-map__arrow { transform: rotate(90deg); justify-self: center; }
     .e3-map__art { height: 4rem; margin-bottom: .5rem; }
