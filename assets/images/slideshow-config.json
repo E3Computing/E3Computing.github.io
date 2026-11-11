@@ -3,19 +3,19 @@
   "slides": [
 
     {
-      "image": "./assets/images/2024_ICDV.jpg",
+      "image": "../assets/images/2024_ICDV.jpg",
       "caption": "Mr. Kobayashi presented at ICDV'24"
     },
     {
-      "image": "./assets/images/2024_Minpo.jpg",
+      "image": "../assets/images/2024_Minpo.jpg",
       "caption": "Our interview with Fukushima Minpo"
     },
     {
-      "image": "./assets/images/2024_MCSoC-24_1.jpg",
+      "image": "../assets/images/2024_MCSoC-24_1.jpg",
       "caption": "Our group union at MCSOC'24"
     },
     {
-      "image": "./assets/images/2025_innovation.jpg",
+      "image": "../assets/images/2025_innovation.jpg",
       "caption": "Our Booth at Innovation Japan –  University Fair 2025"
     },
     {
